@@ -1,6 +1,6 @@
 # NegotiateIQ
 
-**Live:** https://web-production-5314d.up.railway.app/docs
+**Live:** https://negotiatorai.streamlit.app
 
 AI salary negotiation coach powered by Claude + real market data. Built with FastAPI, Supabase (pgvector), and Streamlit.
 
